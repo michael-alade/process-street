@@ -1,0 +1,16 @@
+.no-round {
+    border-radius: 0px;
+}
+
+.preloader {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.preloader img {
+    width: 40px;
+}
+.btn-long {
+    width: 100%;
+}

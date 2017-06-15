@@ -1,0 +1,24 @@
+{
+  "name": "process-street-tes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kolawole Alade",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-mocks": "^1.6.4",
+    "browser-sync": "^2.18.12",
+    "gulp-jasmine-browser": "^1.7.1",
+    "gulp-run-command": "0.0.7",
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.3",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-ng-html2js-preprocessor": "^1.0.0"
+  }
+}
