@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "node app",
-    "test": "karma test"
+    "test": "karma start"
   },
   "author": "Kolawole Alade",
   "license": "ISC",
