@@ -3,8 +3,8 @@ var wisitiaApp = angular.module("wistia", ['blueimp.fileupload']);
 wisitiaApp.constant('wistiaConfig', {
     uploadUrl: "https://upload.wistia.com",
     mediaUrl: "https://api.wistia.com/v1/medias.json",
-    apiPassword: "9a96b9dab5613b58f51b4268f05cd4d1e8a16387db6622bc6c297ef0fec12a58",
-    projectId: "ehru1fmvkr"
+    apiPassword: "",
+    projectId: ""
 })
 
 wisitiaApp.component('wistiaUpload', {
